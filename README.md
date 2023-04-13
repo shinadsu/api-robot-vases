@@ -1,5 +1,5 @@
 ### Установка
-`git clone https://github.com/shinadsu/api-robot-vases`
+`git clone https://github.com/shinadsu/api-robot-vases.git`
 
 ## Развертывание и использование
 - Развертываем репозиторий на локальном/удаленном сервере.`
